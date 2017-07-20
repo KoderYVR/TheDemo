@@ -12,14 +12,3 @@
 # DETAILS (Technical Documentation and Software Requirements Document): 
 Repository path: AppSupportDev / Systems / BPS / Change_Management
 	
-	SRS_BUSAPPS-6118_BPS Review Window - Other Approver.docx	
-
-# CHANGES:
-Changes implements requirements for the following JIRA tickets.
-
-BUSAPPS-6118 - Add window to indicate which approver is reviewing a journal
-	JIRA: http://10.2.50.95:8088/browse/BUSAPPS-6118
-	Build: http://our.healthbc.org/sites/businessplanning/AppSupportDev/Lists/Builds/DispForm.aspx?ID=2
-	
-
-
