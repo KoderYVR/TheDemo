@@ -1,0 +1,22 @@
+# This document explains the changes involved in this development branch.
+
+# PROGRAM:
+	BPS_EXT
+
+# RESOURCE:
+	Josh Yu, Joseph.yu@phsa.ca
+	
+# SUMMARY:
+	Various feature enhancements.
+	
+# DETAILS (Technical Documentation and Software Requirements Document): 
+Repository path: AppSupportDev / Systems / BPS / Change_Management
+	
+	SRS_BUSAPPS-6484_BPS Journal Edit Sort.docx
+
+# CHANGES:
+Changes implements requirements for the following JIRA tickets.
+
+BUSAPPS-6484 BPS edit window not retaining sort order and producing an error message
+	JIRA: http://10.2.50.95:8088/browse/BUSAPPS-6484
+	Build: http://our.healthbc.org/sites/businessplanning/AppSupportDev/Lists/Builds/DispForm.aspx?ID=1
